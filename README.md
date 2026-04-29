@@ -1,6 +1,6 @@
 # All Restaurants in New Hampshire, US
 
-> Free BeamStation sample export with 249 rows and masked direct-contact fields.
+> Free BeamStation sample export with 299 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `519966` |
 | Location | New Hampshire |
 | Category | Restaurants |
-| Full dataset size | 2,490 records |
-| Free sample size | 249 records (10.0%) |
-| Last export | 2026-04-21T18:16:58.487247+00:00 |
+| Full dataset size | 2,999 records |
+| Free sample size | 299 records (9.97%) |
+| Last export | 2026-04-28T19:40:33.337719+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-new-hampshire-us-sample-519966/releases/download/sample-latest/beamstation_519966_restaurants-us-nh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
