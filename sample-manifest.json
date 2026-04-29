@@ -1,12 +1,12 @@
 {
-  "export_job_id": "aac265ff-071b-406d-a15f-0b3680a6eb85",
+  "export_job_id": "0b86c960-e7c8-4f1d-97fe-40ad5ba8480f",
   "id_short": 519966,
-  "published_at": "2026-04-21T19:30:27Z",
+  "published_at": "2026-04-29T07:07:04Z",
   "repo_name": "all-restaurants-in-new-hampshire-us-sample-519966",
   "sample_asset_name": "beamstation_519966_restaurants-us-nh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/519966/beamstation_519966_restaurants-us-nh_SAMPLE_DIST.csv",
-  "sample_records": 249,
-  "sample_sha256": "43e3265a66554f260518d9efd3d3ae14ad5580c573ce42775fceead80d530ed4",
-  "sample_size_bytes": 816743,
-  "total_records": 2490
+  "sample_records": 299,
+  "sample_sha256": "a60820355c3a35ed0c05c9f047cdd8dfece1ccbebe859c471e2511c22cbd5bc3",
+  "sample_size_bytes": 955810,
+  "total_records": 2999
 }
